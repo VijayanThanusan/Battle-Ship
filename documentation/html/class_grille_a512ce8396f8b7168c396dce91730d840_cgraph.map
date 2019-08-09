@@ -1,0 +1,4 @@
+<map id="Grille.test_win_or_loose" name="Grille.test_win_or_loose">
+<area shape="rect" id="node2" href="$class_grille.html#a59b6f180d4deeafb4f3d8656bb9f0f24" title="Fonction servant à afficher l&#39;image &#39;game_over.png&#39; à des coordonnées définies selon le mode de jeux..." alt="" coords="178,5,334,31"/>
+<area shape="rect" id="node3" href="$class_grille.html#aa964e47570968e9ea48f4b493750adbd" title="Fonction servant à afficher l&#39;image &#39;win.gif&#39; à des coordonnées définies selon le mode de jeux..." alt="" coords="201,55,311,80"/>
+</map>

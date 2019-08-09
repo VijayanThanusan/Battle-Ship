@@ -1,0 +1,10 @@
+<map id="Case.Case" name="Case.Case">
+<area shape="rect" id="node2" href="$class_i_a.html#a2c6203adabfb3d68db4bf5ab1630c244" title="Fonction principale de la classe IA : La fonction va en premier temp choisir une case aléatoire parmi..." alt="" coords="141,107,203,132"/>
+<area shape="rect" id="node7" href="$class_grille.html#a512ce8396f8b7168c396dce91730d840" title="Fonction qui parcoure le contenu de la grille, et qui teste si la grille en question est gagnante ou ..." alt="" coords="285,156,409,195"/>
+<area shape="rect" id="node3" href="$class_i_a.html#afbea51dfd689c5b77eb72dc5191c7476" title="Fonction permettant à l&#39;IA de finir un bateau qu&#39;elle aurait découvert : si deux bateaux ont été trou..." alt="" coords="251,5,443,31"/>
+<area shape="rect" id="node4" href="$class_i_a.html#a6761ac03caf3ee8266ada0904f69e253" title="Fonction jouant une case aléatoire parmis toutes les cases disponible de la grille. " alt="" coords="512,56,627,81"/>
+<area shape="rect" id="node6" href="$class_i_a.html#a83b245ec22ae64b721025ed71b5b35ec" title="Fonction permettant d&#39;éxaminer les cases voisines si une case seule d&#39;un bateau a été trouvée..." alt="" coords="270,107,424,132"/>
+<area shape="rect" id="node5" href="$class_i_a.html#af57c49a47ef2e2d0acc4578d64ea2b77" title="Fonction qui renvoie une valeur aléatoire comprise entre min inclu et max exclu. " alt="" coords="695,81,778,107"/>
+<area shape="rect" id="node8" href="$class_grille.html#a59b6f180d4deeafb4f3d8656bb9f0f24" title="Fonction servant à afficher l&#39;image &#39;game_over.png&#39; à des coordonnées définies selon le mode de jeux..." alt="" coords="491,160,647,185"/>
+<area shape="rect" id="node9" href="$class_grille.html#aa964e47570968e9ea48f4b493750adbd" title="Fonction servant à afficher l&#39;image &#39;win.gif&#39; à des coordonnées définies selon le mode de jeux..." alt="" coords="515,209,624,235"/>
+</map>

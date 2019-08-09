@@ -1,0 +1,5 @@
+<map id="Grille.print_game_over" name="Grille.print_game_over">
+<area shape="rect" id="node2" href="$class_grille.html#a512ce8396f8b7168c396dce91730d840" title="Fonction qui parcoure le contenu de la grille, et qui teste si la grille en question est gagnante ou ..." alt="" coords="210,5,334,44"/>
+<area shape="rect" id="node3" href="$class_case.html#a909ce73638e199e4e20dcc137f4482f2" title="Constructeur de la classe &#39;Case&#39; : Ce constructeur créé un objet case en initialisant tous ses attrib..." alt="" coords="492,12,579,37"/>
+<area shape="rect" id="node4" href="$class_i_a.html#a2c6203adabfb3d68db4bf5ab1630c244" title="Fonction principale de la classe IA : La fonction va en premier temp choisir une case aléatoire parmi..." alt="" coords="382,37,444,63"/>
+</map>

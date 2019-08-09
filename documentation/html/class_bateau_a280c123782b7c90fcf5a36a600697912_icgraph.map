@@ -1,0 +1,8 @@
+<map id="Bateau.placerBateau" name="Bateau.placerBateau">
+<area shape="rect" id="node2" href="$class_bateau.html#a7a19b75b4dd6d723a7df1cf4f3532fa9" title="Fonction permettant d&#39;initialiser les bateaux du jeu, et faisant appel à la fonction &#39;placerBateau&#39; a..." alt="" coords="199,57,326,83"/>
+<area shape="rect" id="node3" href="$class_game.html#ad1e7163c4485e0767cf0ac4bacd5b630" title="Fonction initialisant le mode solo en fonction de la difficultée choisie. " alt="" coords="517,5,688,31"/>
+<area shape="rect" id="node5" href="$class_game.html#a3a13395e2b1d136a2eeebcb2499b6078" title="Fonction initialisant le mode joueur contre IA : Ce mode permet au joueur de jouer contre l&#39;ordinateu..." alt="" coords="513,55,693,80"/>
+<area shape="rect" id="node6" href="$class_game.html#a3016273a743b4d29db6c591e529062c8" title="Fonction initialisant le mode joueur contre joueur : Ce mode permet a deux joueurs humains de s&#39;affro..." alt="" coords="523,104,683,143"/>
+<area shape="rect" id="node7" href="$class_game.html#a21954c90912b0d8578687f2b13530770" title="Fonction reset qui réinitialise la grille dans son &#39;group&#39; correspondant passé en paramètres..." alt="" coords="374,32,465,57"/>
+<area shape="rect" id="node4" href="$class_acceuil.html#a6c099a1b6ee0ec6865d80dca9e309727" title="Constructeur de la classe Acceuil Constructeur initialisant plusieurs bouttons afin que le joueur pui..." alt="" coords="741,55,852,80"/>
+</map>

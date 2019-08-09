@@ -1,0 +1,6 @@
+<map id="Game.reset" name="Game.reset">
+<area shape="rect" id="node2" href="$class_game.html#ad1e7163c4485e0767cf0ac4bacd5b630" title="Fonction initialisant le mode solo en fonction de la difficultée choisie. " alt="" coords="149,5,320,31"/>
+<area shape="rect" id="node4" href="$class_game.html#a3a13395e2b1d136a2eeebcb2499b6078" title="Fonction initialisant le mode joueur contre IA : Ce mode permet au joueur de jouer contre l&#39;ordinateu..." alt="" coords="144,55,324,80"/>
+<area shape="rect" id="node5" href="$class_game.html#a3016273a743b4d29db6c591e529062c8" title="Fonction initialisant le mode joueur contre joueur : Ce mode permet a deux joueurs humains de s&#39;affro..." alt="" coords="154,104,314,143"/>
+<area shape="rect" id="node3" href="$class_acceuil.html#a6c099a1b6ee0ec6865d80dca9e309727" title="Constructeur de la classe Acceuil Constructeur initialisant plusieurs bouttons afin que le joueur pui..." alt="" coords="372,55,483,80"/>
+</map>

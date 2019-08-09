@@ -1,0 +1,9 @@
+<map id="Bateau.casesVides" name="Bateau.casesVides">
+<area shape="rect" id="node2" href="$class_bateau.html#a280c123782b7c90fcf5a36a600697912" title="Fonction qui permet de placer les bateaux sur le plateau de façon aléatoire. " alt="" coords="189,61,334,87"/>
+<area shape="rect" id="node3" href="$class_bateau.html#a7a19b75b4dd6d723a7df1cf4f3532fa9" title="Fonction permettant d&#39;initialiser les bateaux du jeu, et faisant appel à la fonction &#39;placerBateau&#39; a..." alt="" coords="382,61,509,87"/>
+<area shape="rect" id="node4" href="$class_game.html#ad1e7163c4485e0767cf0ac4bacd5b630" title="Fonction initialisant le mode solo en fonction de la difficultée choisie. " alt="" coords="700,5,872,31"/>
+<area shape="rect" id="node6" href="$class_game.html#a3016273a743b4d29db6c591e529062c8" title="Fonction initialisant le mode joueur contre joueur : Ce mode permet a deux joueurs humains de s&#39;affro..." alt="" coords="706,55,866,93"/>
+<area shape="rect" id="node7" href="$class_game.html#a3a13395e2b1d136a2eeebcb2499b6078" title="Fonction initialisant le mode joueur contre IA : Ce mode permet au joueur de jouer contre l&#39;ordinateu..." alt="" coords="696,117,876,143"/>
+<area shape="rect" id="node8" href="$class_game.html#a21954c90912b0d8578687f2b13530770" title="Fonction reset qui réinitialise la grille dans son &#39;group&#39; correspondant passé en paramètres..." alt="" coords="557,36,648,61"/>
+<area shape="rect" id="node5" href="$class_acceuil.html#a6c099a1b6ee0ec6865d80dca9e309727" title="Constructeur de la classe Acceuil Constructeur initialisant plusieurs bouttons afin que le joueur pui..." alt="" coords="924,61,1035,87"/>
+</map>

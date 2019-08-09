@@ -1,0 +1,4 @@
+<map id="Bateau.placerBateau" name="Bateau.placerBateau">
+<area shape="rect" id="node2" href="$class_bateau.html#add9beb617833d021ada9495370532bcd" title="Fonction qui s&#39;assure que le bateau soit placé dans des cases vides. " alt="" coords="199,5,334,31"/>
+<area shape="rect" id="node3" href="$class_bateau.html#ae1fec7706dace728ea791c0719ad531a" title="Fonction permettant d&#39;obtenir un chiffre aléatoire. " alt="" coords="220,55,314,80"/>
+</map>

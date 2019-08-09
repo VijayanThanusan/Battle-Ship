@@ -1,0 +1,5 @@
+<map id="IA.random_shot" name="IA.random_shot">
+<area shape="rect" id="node2" href="$class_i_a.html#afbea51dfd689c5b77eb72dc5191c7476" title="Fonction permettant à l&#39;IA de finir un bateau qu&#39;elle aurait découvert : si deux bateaux ont été trou..." alt="" coords="169,5,361,31"/>
+<area shape="rect" id="node3" href="$class_i_a.html#a2c6203adabfb3d68db4bf5ab1630c244" title="Fonction principale de la classe IA : La fonction va en premier temp choisir une case aléatoire parmi..." alt="" coords="409,31,471,56"/>
+<area shape="rect" id="node4" href="$class_case.html#a909ce73638e199e4e20dcc137f4482f2" title="Constructeur de la classe &#39;Case&#39; : Ce constructeur créé un objet case en initialisant tous ses attrib..." alt="" coords="519,31,607,56"/>
+</map>

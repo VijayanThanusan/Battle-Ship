@@ -1,0 +1,7 @@
+<map id="IA.random" name="IA.random">
+<area shape="rect" id="node2" href="$class_i_a.html#a6761ac03caf3ee8266ada0904f69e253" title="Fonction jouant une case aléatoire parmis toutes les cases disponible de la grille. " alt="" coords="136,25,252,51"/>
+<area shape="rect" id="node6" href="$class_i_a.html#a83b245ec22ae64b721025ed71b5b35ec" title="Fonction permettant d&#39;éxaminer les cases voisines si une case seule d&#39;un bateau a été trouvée..." alt="" coords="319,76,473,101"/>
+<area shape="rect" id="node3" href="$class_i_a.html#a2c6203adabfb3d68db4bf5ab1630c244" title="Fonction principale de la classe IA : La fonction va en premier temp choisir une case aléatoire parmi..." alt="" coords="540,27,602,52"/>
+<area shape="rect" id="node5" href="$class_i_a.html#afbea51dfd689c5b77eb72dc5191c7476" title="Fonction permettant à l&#39;IA de finir un bateau qu&#39;elle aurait découvert : si deux bateaux ont été trou..." alt="" coords="300,27,492,52"/>
+<area shape="rect" id="node4" href="$class_case.html#a909ce73638e199e4e20dcc137f4482f2" title="Constructeur de la classe &#39;Case&#39; : Ce constructeur créé un objet case en initialisant tous ses attrib..." alt="" coords="650,27,738,52"/>
+</map>

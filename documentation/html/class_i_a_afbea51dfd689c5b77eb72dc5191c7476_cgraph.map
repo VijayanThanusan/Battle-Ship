@@ -1,0 +1,4 @@
+<map id="IA.continue_with_same_boat" name="IA.continue_with_same_boat">
+<area shape="rect" id="node2" href="$class_i_a.html#a6761ac03caf3ee8266ada0904f69e253" title="Fonction jouant une case aléatoire parmis toutes les cases disponible de la grille. " alt="" coords="246,5,361,31"/>
+<area shape="rect" id="node3" href="$class_i_a.html#af57c49a47ef2e2d0acc4578d64ea2b77" title="Fonction qui renvoie une valeur aléatoire comprise entre min inclu et max exclu. " alt="" coords="409,5,492,31"/>
+</map>
